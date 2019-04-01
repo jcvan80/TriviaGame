@@ -1,0 +1,14 @@
+body{
+	background-image: url("../img/haryyp.jpeg");
+	text-align: center;
+}
+
+.text-muted{
+	color: Red;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
